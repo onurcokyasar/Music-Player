@@ -38,24 +38,6 @@ let track_list = [
         artist: "Chad Crouch",
         image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
         path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3"
-    },
-    {
-        name: "Bedtime Stories",
-        artist: "Jay Chou",
-        image: "http://res.cloudinary.com/alick/image/upload/v1502375978/bedtime_stories_bywggz.jpg",
-        path: "http://res.cloudinary.com/alick/video/upload/v1502375674/Bedtime_Stories.mp3"
-    },
-    {
-        name: "Dorost Nemisham",
-        artist: "Sirvan Khosravi",
-        image: "https://res.cloudinary.com/ehsanahmadi/image/upload/v1573758778/Sirvan-Khosravi-Dorost-Nemisham_glicks.jpg",
-        path: "https://res.cloudinary.com/ehsanahmadi/video/upload/v1573550770/Sirvan-Khosravi-Dorost-Nemisham-128_kb8urq.mp3"
-    },
-    {
-        name: "Despacito",
-        artist: "Luis Fonsi",
-        image: "http://res.cloudinary.com/alick/image/upload/v1502689731/Despacito_uvolhp.jpg",
-        path: "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
     }
 ];
 
